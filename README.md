@@ -1,2 +1,5 @@
 # Apibug_fuckOC_JRMemory
- IOS-防fuckOC_JRMemory一键抓取代码
+Apibug_fuckOC_JRMemory
+
+## 使用
+将此文件与CaptainHook.h一起添加到您的工程中
